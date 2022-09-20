@@ -14,7 +14,7 @@
                     <a href="">Uitleg vakken</a>
                     <a href="">Blokken</a>
                     <a href="">Vernsellen</a>
-                    <a href="">Smoelenboek</a>
+                    <a href="">Smoelenboe</a>
                 </nav>
              </div>
         </div>
