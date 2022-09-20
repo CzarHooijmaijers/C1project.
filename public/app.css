@@ -1,0 +1,31 @@
+*{
+    background-color: #9c7ca5;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+}
+
+header .wrapper{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navbar{
+    padding: 1% 0;
+    
+}
+
+header a{
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    padding: 5px 5px;
+    margin: 0 20px;
+  }
+
+
