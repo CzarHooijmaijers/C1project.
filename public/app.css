@@ -10,9 +10,9 @@
 }
 
 header .wrapper{
-display: flex;
-justify-content: space-between;
-align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .navbar{
@@ -26,6 +26,13 @@ header a{
     border-bottom: 1px solid;
     padding: 5px 5px;
     margin: 0 20px;
+  }
+
+  .rooster img{ 
+    padding-left: 665px;
+  }
+  .rooster{
+    padding-top: 40px;
   }
 
 

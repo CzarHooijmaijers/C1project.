@@ -20,5 +20,13 @@
         </div>
     </header>
 
+    <main>
+        <div class="rooster">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dolorem ducimus voluptates laudantium tempora vero officiis facere! Aliquid et, optio aperiam iste laborum accusantium fugiat eius! Neque quas alias similique?</p>
+            <img src="img/rooster.png" alt="rooster" width="auto" height="400px">
+           
+        </div>
+    </main>
+
 </body>
  
