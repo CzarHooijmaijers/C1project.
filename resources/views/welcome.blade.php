@@ -21,10 +21,15 @@
     </header>
 
     <main>
-        <div class="rooster">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dolorem ducimus voluptates laudantium tempora vero officiis facere! Aliquid et, optio aperiam iste laborum accusantium fugiat eius! Neque quas alias similique?</p>
-            <img src="img/rooster.png" alt="rooster" width="auto" height="400px">
-           
+        <div class="container">
+
+            <div class="text">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque enim a provident ea at omnis earum ab totam quibusdam quaerat illum cupiditate quia veniam ducimus quos nemo, tempore nesciunt aliquam reprehenderit assumenda ipsam! Error excepturi ut pariatur nam odio minus quod sequi repellendus hic maiores? Reprehenderit asperiores ex numquam beatae consequatur enim dolorem labore expedita iure quibusdam, doloremque distinctio nulla aliquam deserunt unde libero sed totam illo fugit. Optio, ratione delectus laborum et earum ut repellat consequatur error beatae quae.</p>
+            </div>
+            <div class="img">
+                <img src="img/rooster.png" alt="rooster" width="auto" height="400px">
+            </div>
+            
         </div>
     </main>
 
