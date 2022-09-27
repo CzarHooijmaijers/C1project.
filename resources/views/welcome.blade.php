@@ -24,7 +24,16 @@
         <div class="container">
 
             <div class="text">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque enim a provident ea at omnis earum ab totam quibusdam quaerat illum cupiditate quia veniam ducimus quos nemo, tempore nesciunt aliquam reprehenderit assumenda ipsam! Error excepturi ut pariatur nam odio minus quod sequi repellendus hic maiores? Reprehenderit asperiores ex numquam beatae consequatur enim dolorem labore expedita iure quibusdam, doloremque distinctio nulla aliquam deserunt unde libero sed totam illo fugit. Optio, ratione delectus laborum et earum ut repellat consequatur error beatae quae.</p>
+                <p>De vakken die je in het eerste jaar gaat krijgen van de opleiding: Software Developer zijn:
+                Windows development: bij dit vak leer je het programmeren van Windows applicaties met verschillende talen zoals: C#, Python en C++. 
+                Web development: Bij web development ga je je vooral bezig houden met het maken van websites met de taal HTML en PHP, ook moeten deze websites er wel mooi uitzien dus je gaat deze websites ook stijlen met behulp van de taal CSS. Verder wordt er ook nog gewerkt met databases. 
+                Nederlands: Nederlands kun je eigenlijk vergelijken met Nederlands op de middelbare school alleen herhaal je hier grotendeels wat je op de middelbare school al hebt geleerd.
+                Engels: Engels is eigenlijk hetzelfde als Nederlands je herhaalt eigenlijk de theorie die je op de middelbare school al hebt geleerd.
+                Rekenen: Voor rekenen geldt hetzelfde als voor de andere generieke vakken je herhaalt en oefent eigenlijk de theorie die je op de middelbare school hebt gehad.
+                Codelab: Bij Codelab leer de meer de programmeer kant van PHP in plaats van de visuele kant die je gebruikt bij WEB.
+                Praktijk werk: Bij praktijk werk ga je met alle kennis die je hebt opgedaan bij de andere vakken aan de slag aan een grote “Praktijkopdracht”. Hier werk je dan ongeveer 3-4 weken aan.
+                SLB: Tijdens SLB (Studieloopbaan begeleiding) bespreekt je SLB’er de standaard mentorzaken met je klas.
+</p>
             </div>
             <div class="img">
                 <img src="img/rooster.png" alt="rooster" width="auto" height="400px">
