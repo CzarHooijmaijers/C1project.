@@ -1,11 +1,12 @@
 *{
-    
+    font-family: 'Maven Pro', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 body{
-  background-color: #9c7ca5;
+  background-color: #16262E;
+  
 }
 
 .wrapper{
@@ -14,7 +15,7 @@ body{
 }
 
 p{
-  color: #fff;
+  color: #C8CAD5;
 }
 
 header .wrapper{
@@ -29,41 +30,79 @@ header .wrapper{
 }
 
 header a{
-    color: #fff;
+    color: #C8CAD5;
     text-decoration: none;
     border-bottom: 1px solid;
     padding: 5px 5px;
     margin: 0 20px;
   }
 
-  .container{
+  header a:hover{
+    color: #fff;
+  }
+
+  .rooster_vakken{
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .container img{
-    padding-right: 200px;
+  .rooster_vakken img{
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .text{
     border-radius: 25px;
-    background-color: #E6C0E9;
+    background-color: #2E4756;
     padding: 20px;
     width: auto;
     height: auto;
     margin-right: 25px;
     margin-left: 25px;
-    
+    margin-top: 25px;
+    margin-bottom: 25px;
   }
   
-  .text2{
-    border-radius: 25px;
-    background-color: #E6C0E9;
-    padding: 20px;
-    width: auto;
-    height: auto;
-    margin-right: 25px;
-    margin-left: 25px;
-    margin-top: 50px  ;
+  
+  
+  .info{
+    padding-left: 100px;
   }
+
+  .rooster_vakken{
+    border-bottom: #3C7A89 1px solid;
+    
+    
+  }
+  main{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .blokken_versnellen{
+    border-bottom: #3C7A89 1px solid;
+  }
+
+.smoelenboekje{
+  margin-top: 75px;
+}
+
+  .personen{
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    margin-bottom: 75px;
+
+}
+.personen img{
+  width: 125px;
+  height: 125px;
+  margin-bottom: 25px;
+}
+.personen p{
+  margin-bottom: 10px;
+  
+}
